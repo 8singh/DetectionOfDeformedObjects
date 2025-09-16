@@ -5,7 +5,7 @@ This repository contains the resources for methods used in the paper Robotic Det
 <img src="flowchart.png" alt="methods">
 
 ## Resources
-- YOLACT (https://github.com/dbolya/yolact)
+- [YOLACT](https://github.com/dbolya/yolact)
 - 
 
 ## License
