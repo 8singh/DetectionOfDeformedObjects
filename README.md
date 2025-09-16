@@ -10,4 +10,4 @@
 ## License
 Distributed under the GPL-3.0 license. See `LICENSE.txt` for more information.
 
-*** ## Bibliogrphy entry
+<!-- ## Bibliogrphy entry -->
